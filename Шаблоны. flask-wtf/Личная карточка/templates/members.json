@@ -1,0 +1,22 @@
+﻿{
+  "members": [
+    {
+      "name": "Petr",
+      "surname": "Ivanov",
+      "image_path": "static/img/members_image/1.png",
+      "jobs": [
+        "IT-специалист",
+        "космонавт"
+      ]
+    },
+    {
+      "name": "Крипи",
+      "surname": "Вэд",
+      "image_path": "static/img/members_image/2.jpg",
+      "jobs": [
+        "астрогеолог",
+        "специалист по космическим кораблям"
+      ]
+    }
+  ]
+}
